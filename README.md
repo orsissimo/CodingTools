@@ -9,8 +9,6 @@ Here is a small selection of online tools to help you do that.
 
 Most of them are free.
 
-You can read a summary of how to work with the different classes of tools in my Twitter thread: https://twitter.com/cyb_detective/status/1508167717928546312
-
 
 <h1>Online compliers</h1>
 
